@@ -35,7 +35,7 @@
 
 #### Studying in this moment:
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![GCP](https://img.shields.io/badge/java-4285F4?style=for-the-badge&logo=j&logoColor=white)&nbsp;
 
 
 #### Databases:
