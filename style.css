@@ -1,14 +1,9 @@
-<style>
-  @keyframes wave {
-    0% {
-      transform: translateX(0);
-    }
-    100% {
-      transform: translateX(-50%);
-    }
-  }
-  
-  path {
-    animation: wave 10s infinite linear;
-  }
-</style>
+svg path {
+  transform-origin: bottom; /* Define o ponto de origem da transformação na base da onda */
+  animation: waveUpAndDown 5s ease-in-out infinite alternate; /* Aplica a animação */
+}
+
+@keyframes waveUpAndDown {
+  0% { transform: translateY(0); }     /* Posição inicial */
+  100% { transform: translateY(-20px); } /* Deslocamento para cima */
+}
