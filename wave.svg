@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
   <defs>
     <linearGradient id="waveGradient" gradientTransform="rotate(90)">
-      <stop offset="0%" stop-color="#007bff" /> <stop offset="50%" stop-color="#40a9ff" /> <stop offset="100%" stop-color="#304b8a" /> </linearGradient>
+      <stop offset="0%" stop-color="#007bff" /> <stop offset="50%" stop-color="#3486c9" /> <stop offset="100%" stop-color="#304b8a" /> </linearGradient>
   </defs>
 
   <path id="wave1" fill="url(#waveGradient)" d="M0,224 C144,149 432,96 720,128 C1008,160 1296,224 1440,256 V320 H0 Z">
