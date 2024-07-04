@@ -53,6 +53,10 @@
 &nbsp;
 
 ## Contacts:
+<div align="center">
+  <img src="footer.svg" alt="Rodapé do GitHub" width="100%">
+  <link rel="stylesheet" href="style.css">
+</div>
 
 
 <div> 
