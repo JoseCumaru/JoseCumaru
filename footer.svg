@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 150">
   <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#90F1EF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#38E5CB;stop-opacity:1" />
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#90F1EF" />
+      <stop offset="100%" stop-color="#38E5CB" />
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="500" height="100" fill="url(#grad1)" />
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="24">
-    Siga-me no GitHub
-  </text>
-  <g id="github-icon">
-    <path d="M10 10 h80 v80 h-80 z" fill="white" />
-    <path d="M30 30 h40 v40 h-40 z" fill="#38E5CB" />
-  </g>
+
+  <path id="wave1" d="M0 75 Q125 25 250 75 T500 75" fill="url(#waveGradient)">
+    <animate attributeName="d" values="M0 75 Q125 25 250 75 T500 75; M0 75 Q125 125 250 75 T500 75; M0 75 Q125 25 250 75 T500 75" dur="5s" repeatCount="indefinite" />
+  </path>
+
+  <path id="wave2" d="M0 100 Q125 50 250 100 T500 100" fill="url(#waveGradient)" opacity="0.8">
+    <animate attributeName="d" values="M0 100 Q125 50 250 100 T500 100; M0 100 Q125 150 250 100 T500 100; M0 100 Q125 50 250 100 T500 100" dur="7s" repeatCount="indefinite" />
+  </path>
 </svg>
