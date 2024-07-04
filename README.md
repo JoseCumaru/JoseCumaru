@@ -1,4 +1,3 @@
-
 <p align="center">Hi, i'm <b>Jose Cumaru</b>👾 . <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas..</a> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -11,8 +10,6 @@
  &nbsp;
  &nbsp;
 
-
-
 ## My Skills
 
 #### Main Stack:
@@ -21,7 +18,9 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
+
+<img src="code-typing.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
