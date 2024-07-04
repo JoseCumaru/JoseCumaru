@@ -20,7 +20,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
-<img src="code-typing.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode">
+<img src="code-typing.svg" min-width="350px" max-width="350px" width="30%" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
