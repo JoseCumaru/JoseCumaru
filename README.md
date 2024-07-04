@@ -53,11 +53,6 @@
 &nbsp;
 
 ## Contacts:
-<div align="center">
-  <img src="footer.svg" alt="Rodapé do GitHub" width="100%">
-  <link rel="stylesheet" href="style.css">
-</div>
-
 
 <div> 
 <a href="https://www.instagram.com/josecumaru98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -69,5 +64,5 @@
  
 
   
-  
+ <img width=100% src="footer.svg" alt="Rodapé do GitHub"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
