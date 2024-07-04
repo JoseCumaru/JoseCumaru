@@ -2,7 +2,9 @@
 <p align="center">Hi, i'm <b>Jose Cumaru</b>👾 . <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas..</a> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=josecumaru&theme=radical&mode=weekly" />
+
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=josecumaru&theme=python-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)]
 
  </div>
  
@@ -65,4 +67,4 @@
 
   
  <img width=100% src="wave.svg" alt="Rodapé do GitHub"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/> -->
