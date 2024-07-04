@@ -64,5 +64,5 @@
  
 
   
- <img width=100% src="footer.svg" alt="Rodapé do GitHub"/>
+ <img width=100% src="wave.svg" alt="Rodapé do GitHub"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
