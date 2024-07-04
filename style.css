@@ -1,10 +1,14 @@
-#github-icon {
-    transform-origin: center;
-    animation: rotate 5s linear infinite;
+<style>
+  @keyframes wave {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
   }
   
-  @keyframes rotate {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+  path {
+    animation: wave 10s infinite linear;
   }
-  
+</style>
