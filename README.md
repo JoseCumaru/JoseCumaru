@@ -1,5 +1,6 @@
- <img align="left" width=50% height="300px" src="header.svg" alt="Rodapé do GitHub"/>
-<p align="right" width="50%" height="300px">Hi, i'm <b>Jose Cumaru</b>👾 . <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas.. Hi, i'm <b>Jose Cumaru</b>👾 . <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas.. </a> </p>&nbsp;
+<img align="left" width=50% height="200px" src="header.svg" alt="Rodapé do GitHub"/>
+<p align="right" width=50% height=300px>Hi, i'm <b>Jose Cumaru</b>👾 . <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas.. Hi, i'm <b>Jose Cumaru</b>👾 . </p>&nbsp;
+
 
 <div  align="center" style="margin-bottom:100px;">
 
