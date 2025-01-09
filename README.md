@@ -1,4 +1,4 @@
-<img src="header.svg" width="360px" align="left" alt="header iuriCode" style="margin-top: -5%; margin-right: 15px;">
+<img src="header.svg" width="300px" align="left" alt="header iuriCode">
 <br><br><br>
 Hi, I'm **Jose Cumaru** 👾.
 
