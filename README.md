@@ -1,6 +1,8 @@
-<img align="left" width="40%" src="header.svg" alt="Rodapé do GitHub"/>
-<p align="right" width="60%">Hi, I'm <b>Jose Cumaru</b>👾. <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas</a>.</p>
+<img src="header.svg" width="40%" align="left" alt="header iuriCode">
 
+Hi, I'm **Jose Cumaru** 👾.
+
+I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the [Federal University of Amazonas](https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
 ## My Skills
 
