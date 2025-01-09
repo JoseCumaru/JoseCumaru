@@ -1,18 +1,7 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; height: 300px;">
+<img align="left" width="40%" src="header.svg" alt="Rodapé do GitHub"/>
+<p align="right" width="60%">Hi, I'm <b>Jose Cumaru</b>👾. <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas</a>.</p>
 
-<img align="left" width="40%" src="header.svg" alt="Rodapé do GitHub" style="margin-right: 20px;"/>
-<p align="right" width="60%">Hi, I'm <b>𝐽𝑜𝑠𝑒 𝐶𝑢𝑚𝑎𝑟𝑢</b>. <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas</a>.</p>
 
-</div>
-
-<div align="center" style="padding:2%;">
-
-</div>
-
-<div align="center" style="display: flex; align-items: center; justify-content: space-between;">
-
-<div align="left" style="width: 60%;">
-  
 ## My Skills
 
 ### Main Stack:
@@ -20,6 +9,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<img src="code-typing.svg" width="40%" align="right" alt="Computador iuriCode">
 
 ### Secondary Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,14 +35,6 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
-</div>
-
-<div align="right" style="width: 40%;">
-  <img src="code-typing.svg" width="100%" alt="Computador iuriCode">
-</div>
-
-</div>
 
 ## Contacts:
 
