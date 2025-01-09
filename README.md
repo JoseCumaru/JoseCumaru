@@ -1,5 +1,5 @@
 <img src="header.svg" width="300px" align="left" alt="header iuriCode">
-<br><br><br><br>
+<br><br><br><br><br><br>
 Hi, I'm **Jose Cumaru** 👾.
 
  I am currently studying seventh period Software Engineering at the [Federal University of Amazonas](https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
