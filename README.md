@@ -1,13 +1,11 @@
-<div align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; height: 300px;">
 
-<img align="left" width="30%" src="header.svg" alt="Rodapé do GitHub"/>
-<p align="right" width="60%">Hi, I'm <b>Jose Cumaru</b>👾. <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas</a>.</p>
+<img align="left" width="40%" src="header.svg" alt="Rodapé do GitHub" style="margin-right: 20px;"/>
+<p align="right" width="60%">Hi, I'm <b>𝐽𝑜𝑠𝑒 𝐶𝑢𝑚𝑎𝑟𝑢</b>（っ＾▿＾）. <br><br>I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the <a href="https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Federal University of Amazonas</a>.</p>
 
 </div>
 
-<div align="center" style="margin-bottom:100px; padding:5%;">
-
-
+<div align="center" style="margin-bottom:100px; padding:2%;">
 
 </div>
 
