@@ -2,7 +2,7 @@
 <br><br><br>
 Hi, I'm **Jose Cumaru** 👾.
 
-I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the [Federal University of Amazonas](https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+ I am currently studying seventh period Software Engineering at the [Federal University of Amazonas](https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
 <br><br><br>
 
