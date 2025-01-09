@@ -1,10 +1,10 @@
-<img src="header.svg" width="30%" align="left" alt="header iuriCode" style="margin-top: -10%; margin-right: 10px;">
+<img src="header.svg" width="300px" align="left" alt="header iuriCode" style="margin-top: -5%; margin-right: 15px;">
 
 Hi, I'm **Jose Cumaru** 👾.
 
 I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the [Federal University of Amazonas](https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
-<div style="clear: both; margin-top: 20%;"></div>
+<div style="clear: both; margin-top: 20px;"></div>
 
 ## My Skills
 
@@ -14,7 +14,7 @@ I am always interested in creating innovative technological solutions and workin
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<img src="code-typing.svg" width="40%" align="right" alt="Computador iuriCode" style="margin-left: 10px; margin-top: -20px;">
+<img src="code-typing.svg" width="40%" align="right" alt="Computador iuriCode" style="margin-left: 15px;">
 
 ### Secondary Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
