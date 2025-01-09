@@ -1,8 +1,11 @@
-<img src="header.svg" width="40%" align="left" alt="header iuriCode">
+<img src="header.svg" width="30%" align="left" alt="header iuriCode" style="margin-top: -5%;">
 
 Hi, I'm **Jose Cumaru** 👾.
 
 I am always interested in creating innovative technological solutions and working on projects that can have a positive impact on society. I am currently studying seventh period Software Engineering at the [Federal University of Amazonas](https://www.instagram.com/ufam__?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+
+<div style="margin-top:10%;"></div>
+
 
 ## My Skills
 
